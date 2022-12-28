@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.19e4ec5b.css",
-    "main.js": "/static/js/main.4686d446.js",
-    "static/js/422.f77fc5a0.chunk.js": "/static/js/422.f77fc5a0.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/sunburst.svg": "/static/media/sunburst.c91380581393ffb21a15.svg",
-    "index.html": "/index.html",
-    "main.19e4ec5b.css.map": "/static/css/main.19e4ec5b.css.map",
-    "main.4686d446.js.map": "/static/js/main.4686d446.js.map",
-    "422.f77fc5a0.chunk.js.map": "/static/js/422.f77fc5a0.chunk.js.map"
+    "main.css": "/puremagic/static/css/main.7e6d1fef.css",
+    "main.js": "/puremagic/static/js/main.3fbfa1c0.js",
+    "static/js/422.f77fc5a0.chunk.js": "/puremagic/static/js/422.f77fc5a0.chunk.js",
+    "service-worker.js": "/puremagic/service-worker.js",
+    "static/media/sunburst.svg": "/puremagic/static/media/sunburst.c91380581393ffb21a15.svg",
+    "index.html": "/puremagic/index.html",
+    "main.7e6d1fef.css.map": "/puremagic/static/css/main.7e6d1fef.css.map",
+    "main.3fbfa1c0.js.map": "/puremagic/static/js/main.3fbfa1c0.js.map",
+    "422.f77fc5a0.chunk.js.map": "/puremagic/static/js/422.f77fc5a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19e4ec5b.css",
-    "static/js/main.4686d446.js"
+    "static/css/main.7e6d1fef.css",
+    "static/js/main.3fbfa1c0.js"
   ]
 }
