@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/puremagic/static/css/main.f2f63a74.css",
-    "main.js": "/puremagic/static/js/main.a02e9416.js",
+    "main.css": "/puremagic/static/css/main.2cab41d9.css",
+    "main.js": "/puremagic/static/js/main.fd8497b7.js",
     "static/js/422.24c25968.chunk.js": "/puremagic/static/js/422.24c25968.chunk.js",
     "service-worker.js": "/puremagic/service-worker.js",
     "index.html": "/puremagic/index.html",
-    "main.f2f63a74.css.map": "/puremagic/static/css/main.f2f63a74.css.map",
-    "main.a02e9416.js.map": "/puremagic/static/js/main.a02e9416.js.map",
+    "main.2cab41d9.css.map": "/puremagic/static/css/main.2cab41d9.css.map",
+    "main.fd8497b7.js.map": "/puremagic/static/js/main.fd8497b7.js.map",
     "422.24c25968.chunk.js.map": "/puremagic/static/js/422.24c25968.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2f63a74.css",
-    "static/js/main.a02e9416.js"
+    "static/css/main.2cab41d9.css",
+    "static/js/main.fd8497b7.js"
   ]
 }
