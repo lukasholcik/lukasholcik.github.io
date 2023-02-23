@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/posturecop/static/css/main.6f746b96.css",
+    "main.js": "/posturecop/static/js/main.4b86774e.js",
+    "static/js/787.7427a302.chunk.js": "/posturecop/static/js/787.7427a302.chunk.js",
+    "index.html": "/posturecop/index.html",
+    "main.6f746b96.css.map": "/posturecop/static/css/main.6f746b96.css.map",
+    "main.4b86774e.js.map": "/posturecop/static/js/main.4b86774e.js.map",
+    "787.7427a302.chunk.js.map": "/posturecop/static/js/787.7427a302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f746b96.css",
+    "static/js/main.4b86774e.js"
+  ]
+}
