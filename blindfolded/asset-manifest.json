@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blindfolded/static/css/main.966c9010.css",
+    "main.js": "/blindfolded/static/js/main.9d88fbce.js",
+    "static/js/422.24c25968.chunk.js": "/blindfolded/static/js/422.24c25968.chunk.js",
+    "service-worker.js": "/blindfolded/service-worker.js",
+    "static/media/Halimun.ttf": "/blindfolded/static/media/Halimun.d49fc08047f91db363ab.ttf",
+    "index.html": "/blindfolded/index.html",
+    "main.966c9010.css.map": "/blindfolded/static/css/main.966c9010.css.map",
+    "main.9d88fbce.js.map": "/blindfolded/static/js/main.9d88fbce.js.map",
+    "422.24c25968.chunk.js.map": "/blindfolded/static/js/422.24c25968.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966c9010.css",
+    "static/js/main.9d88fbce.js"
+  ]
+}
