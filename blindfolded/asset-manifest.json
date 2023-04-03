@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/blindfolded/static/css/main.966c9010.css",
-    "main.js": "/blindfolded/static/js/main.f1b038e3.js",
+    "main.css": "/blindfolded/static/css/main.d1274126.css",
+    "main.js": "/blindfolded/static/js/main.2dc9cb8c.js",
     "static/js/512.24a16c88.chunk.js": "/blindfolded/static/js/512.24a16c88.chunk.js",
     "service-worker.js": "/blindfolded/service-worker.js",
+    "static/media/background3.webp": "/blindfolded/static/media/background3.80718c052eee8122d6e8.webp",
     "static/media/Halimun.ttf": "/blindfolded/static/media/Halimun.d49fc08047f91db363ab.ttf",
     "index.html": "/blindfolded/index.html",
-    "main.966c9010.css.map": "/blindfolded/static/css/main.966c9010.css.map",
-    "main.f1b038e3.js.map": "/blindfolded/static/js/main.f1b038e3.js.map",
+    "main.d1274126.css.map": "/blindfolded/static/css/main.d1274126.css.map",
+    "main.2dc9cb8c.js.map": "/blindfolded/static/js/main.2dc9cb8c.js.map",
     "512.24a16c88.chunk.js.map": "/blindfolded/static/js/512.24a16c88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.966c9010.css",
-    "static/js/main.f1b038e3.js"
+    "static/css/main.d1274126.css",
+    "static/js/main.2dc9cb8c.js"
   ]
 }
