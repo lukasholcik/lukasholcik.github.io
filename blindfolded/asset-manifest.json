@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/blindfolded/static/css/main.14be2d80.css",
-    "main.js": "/blindfolded/static/js/main.e79b6247.js",
+    "main.js": "/blindfolded/static/js/main.e708c9b7.js",
     "static/js/512.24a16c88.chunk.js": "/blindfolded/static/js/512.24a16c88.chunk.js",
     "service-worker.js": "/blindfolded/service-worker.js",
     "static/media/background3.webp": "/blindfolded/static/media/background3.80718c052eee8122d6e8.webp",
     "static/media/Halimun.ttf": "/blindfolded/static/media/Halimun.d49fc08047f91db363ab.ttf",
     "index.html": "/blindfolded/index.html",
     "main.14be2d80.css.map": "/blindfolded/static/css/main.14be2d80.css.map",
-    "main.e79b6247.js.map": "/blindfolded/static/js/main.e79b6247.js.map",
+    "main.e708c9b7.js.map": "/blindfolded/static/js/main.e708c9b7.js.map",
     "512.24a16c88.chunk.js.map": "/blindfolded/static/js/512.24a16c88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14be2d80.css",
-    "static/js/main.e79b6247.js"
+    "static/js/main.e708c9b7.js"
   ]
 }
